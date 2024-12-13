@@ -1,0 +1,5 @@
+{ 
+    "version": 2, 
+    "rewrites": [{ "source": "./backend/src/.*", 
+    "destination": "./backend/src/server.js" }] 
+}
